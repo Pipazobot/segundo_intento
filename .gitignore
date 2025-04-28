@@ -1,2 +1,6 @@
 .env 
 db.sqlite3
+staticfiles/*
+!staticfiles/.gitkeep
+*.pyc
+__pycache__/
